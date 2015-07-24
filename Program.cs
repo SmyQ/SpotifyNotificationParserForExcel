@@ -25,7 +25,8 @@ namespace SpotifyNotificationParserForExcel
             var rows = worksheet.Rows.Skip(1);
             var spotifyNotifications = spotifyNotificationFactory.CreatemultipleFrom(rows);
 
-            echonestWebApi.FindSong("Pharrell", "Happy");
+            //echonestWebApi.FindSong("Pharrell", "Happy");
+            EchonestAllGeneresResponse echonestAllGeneresResponse = echonestWebApi.GetAllGeneres();
 
             Console.ReadLine();
         }
