@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Excel;
 using SpotifyNotificationParserForExcel.Factory;
+using SpotifyNotificationParserForExcel.Services;
 
 namespace SpotifyNotificationParserForExcel
 {
@@ -18,9 +19,13 @@ namespace SpotifyNotificationParserForExcel
                 @"\res\LaurynasStasysSpotify - removedDuplicatedRows.xlsx";
 
             SpotifyNotificationFactory spotifyNotificationFactory = new SpotifyNotificationFactory();
+            EchonestWebApi echonestWebApi = new EchonestWebApi();
+
             var worksheet = Workbook.Worksheets(exelFilePath).First();
             var rows = worksheet.Rows.Skip(1);
             var spotifyNotifications = spotifyNotificationFactory.CreatemultipleFrom(rows);
+
+            echonestWebApi.FindSong("Pharrell", "Happy");
 
             Console.ReadLine();
         }
