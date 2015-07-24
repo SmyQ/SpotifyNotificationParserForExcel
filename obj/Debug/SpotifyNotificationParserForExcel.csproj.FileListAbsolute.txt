@@ -1,0 +1,8 @@
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\bin\Debug\SpotifyNotificationParserForExcel.exe.config
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\bin\Debug\SpotifyNotificationParserForExcel.exe
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\bin\Debug\SpotifyNotificationParserForExcel.pdb
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\bin\Debug\Excel.dll
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\bin\Debug\Excel.xml
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.csprojResolveAssemblyReference.cache
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.exe
+c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.pdb
