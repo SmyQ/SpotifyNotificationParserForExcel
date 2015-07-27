@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using NPOI.SS.UserModel;
 
 namespace SpotifyNotificationParserForExcel.Model
 {
@@ -15,5 +16,6 @@ namespace SpotifyNotificationParserForExcel.Model
         public int Duration { get; set; }
         public int AlbumYearRelease { get; set; }
         public List<String> Genres { get; set; }
+        public IRow Row { get; set; }
     }
 }

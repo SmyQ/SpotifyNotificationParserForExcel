@@ -6,3 +6,17 @@ c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForE
 c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.csprojResolveAssemblyReference.cache
 c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.exe
 c:\users\kaa\documents\visual studio 2013\Projects\SpotifyNotificationParserForExcel\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.pdb
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\SpotifyNotificationParserForExcel.exe.config
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.exe
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.pdb
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\SpotifyNotificationParserForExcel.exe
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\SpotifyNotificationParserForExcel.pdb
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\obj\Debug\SpotifyNotificationParserForExcel.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\NPOI.dll
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\NPOI.OOXML.dll
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\NPOI.xml
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\NPOI.OOXML.xml
+C:\Users\Kamil\Documents\Visual Studio 2013\Projects\SpotifyNotificationParserForExcel\bin\Debug\NPOI.OpenXml4Net.xml
